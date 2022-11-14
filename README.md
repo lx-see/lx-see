@@ -10,3 +10,4 @@
 
 ### <h1 align="center"> <img src="https://github.com/lx-see/lx-see/blob/main/img/sakura.png" width="40px"/> <img src="https://github.com/lx-see/lx-see/blob/main/img/neko.png" width="40px"/> How To Reach Me <img src="https://github.com/lx-see/lx-see/blob/main/img/green_tree.png" width="40px"/> </h1>
 - :office: Can find me on Linkedin:	[Linkedin Profile](https://www.linkedin.com/in/lx-see)
+- :house_with_garden: My Homepage: [LX SEE - My Page](https://lx-see.github.io/)
